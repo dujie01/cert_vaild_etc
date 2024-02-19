@@ -1,2 +1,2 @@
-Considering data security and privacy protection, we will only provide part of the code files in the early stage. Later, we will release all paper-related materials in accordance with the requirements of the journal.
+Considering data security and privacy protection, we will only provide part of the code files in the submission stage. We will release all article-related materials during peer-review stage as required.
 
